@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+	  "name": "banana",
+	  "barcode": "1234567890128",
+	  "image": "https://www.nimoo.de/apps/productar/images/banana.jpg"      
+    },
+	{
+      "id": 2,
+	  "name": "book",
+	  "barcode": "9781782808084",
+	  "image": "https://www.nimoo.de/apps/productar/images/book.jpg"     		
+	}
+  ],
+  "user": {
+    "name": "maxr2011"
+  }
+}
